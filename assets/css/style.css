@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    color:#11B674;
+    color:#3AAFA9;
     font-weight: 700;
 }
 .text-center {
@@ -69,7 +69,7 @@ p {
 }
 
 .color-green {
-    color:#07BB00;
+    color:#3AAFA9;
 }
 
 .color-light-blue {
@@ -135,14 +135,24 @@ p {
     background-color: #FAFAFA;
    
 }
-
+.funny-description{
+    color:#00aced;
+}
+.para-about{
+    font-size: 2.5rem;
+    color: #000;
+    line-height: 5rem;
+}
+h2{
+    text-decoration: underline;
+}
 
 /*==========================================
    SOCIAL ICON STYLES
     =====================================================*/
 
 .color-facebook {
-    color:#3B5998;
+    color:ç;
 }
 .color-twitter {
      color:#00aced;
@@ -199,7 +209,7 @@ color: #FFFFFF;
    
 
 #footer {
-    background-color: #2F11C4; 
+    background-color: #000; 
     color: #fff; 
     text-align: right; 
     padding: 10px 30px 10px 30px;
